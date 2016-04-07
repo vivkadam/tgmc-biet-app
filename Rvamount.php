@@ -57,7 +57,7 @@
                         <button ng-click='back()' class="btn btn-default color-pink" name="select" value="back">
                             back
                         </button>
-                        <button type="submit" ng-disabled='amtForm.$input' class="btn btn-default color-pink">NEXT</button>                    
+                        <button type="submit" ng-disabled='amtForm.$input' class="btn btn-default color-pink">Next</button>                    
                 </form>
         </center>
     </div>    
