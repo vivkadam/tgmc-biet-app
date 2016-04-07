@@ -41,7 +41,7 @@
             
 
             <a href="https://retail.onlinesbi.com/retail/login.htm"><img src="sbi-logo-english.png" width="30%" height="50%"></a><br/><br/>
-            <a href="http://www.icicibank.com/Personal-Banking/insta-banking/internet-banking/index.page"><img src="ICICI-logo-big.jpg" width="30%" height="20%"></a><br/><br/>
+            <a href="http://www.icicibank.com/Personal-Banking/insta-banking/internet-banking/index.page"><img src="ICICI-Logo-big.jpg" width="30%" height="20%"></a><br/><br/>
             <a href="http://www.hdfcbank.com/personal/ways-to-bank/bank-online/netbanking"><img src="HDFC_Bank_Logo.jpg" width="30%" height="20%"></a><br/><br/>
             <a href="http://www.axisbank.com/pre-login/internetbanking_prelogin.aspx"><img src="Axis-logo1.jpg" width="30%" height="20%"></a><br/><br/>
             <a href="https://www.karnatkabank.com/ktk/IBRetail.jsp"><img src="karnatkbnk.jpg" width="30%" height="50%"></a><br/><br/>
