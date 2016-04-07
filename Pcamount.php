@@ -20,7 +20,7 @@
 <body style="background:skyblue" ng-controller='mainCtrl'>
     <div style="margin:20px">
         <center>        
-                <form name='amtForm' action="update1.php" method="post">
+                <form name='amtForm' action="update.php" method="post">
                     <div style="margin:20px">
                     USN:
                     <input type="text" name="USN" placeholder=" Enter USN">
@@ -57,9 +57,7 @@
                         <button ng-click='back()' class="btn btn-default color-pink" name="select" value="back">
                             back
                         </button>
-                        <input ng-disabled='amtForm.$invalid' type="submit" value="Next">                    
-
-                </div>
+                        <button type="submit" ng-disabled='amtForm.$input' class="btn btn-default color-pink">Next</button>                    
                 </form>
         </center>
     </div>    

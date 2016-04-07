@@ -11,10 +11,10 @@ body {
 }
 </style>
 </head>
-<body style="background:indigo">
+<body style="background:skyblue">
   <div style="margin:20px">
     <center>
-      <form  action="insert.php" method="post" style="width:50%;background:hotpink;padding:20px">
+      <form  action="insert.php" method="post" style="width:50%;background:darkblue;padding:20px">
         <div  class="form-group">
           <label for="ip" class="form-control" style="border-radius:0">INFO</label> 
           <input id='ip' type="text" name="name" placeholder="Name" autofocus required>
