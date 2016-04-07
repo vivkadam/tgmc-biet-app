@@ -48,14 +48,14 @@
 
                     <h1 ng-hide='!showAmt'>Amount payable:<bold>{{noSub * 400}}</bold></h1>
 
-                    DD Number
+                    Bank Account Number
                     <input type="number" name="Account"></input>
 
                     <br/>
 
                     <div style="margin:20px">
                         <button ng-click='back()' class="btn btn-default color-pink" name="select" value="back">
-                            back
+                            Back
                         </button>
                         <button type="submit" ng-disabled='amtForm.$input' class="btn btn-default color-pink">Next</button>                    
                 </form>
