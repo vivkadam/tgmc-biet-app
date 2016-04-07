@@ -11,7 +11,7 @@ body {
 }
 </style>
 </head>
-<body style="background:indigo">
+<body style="background:skyblue">
   <div style="margin:20px">
     <center>
       <form  action="insert.php" method="post" style="width:50%;background:darkblue;padding:20px">
